@@ -8,7 +8,7 @@ name = "anshin-meshi"
 default_platform = "web"
 
 # `build` & `serve` dist path
-out_dir = "../docs"
+out_dir = "dist"
 
 # resource (assets) file folder
 asset_dir = "assets"
